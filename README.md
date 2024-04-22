@@ -1,6 +1,6 @@
 # 舍梵偈RhythmBuddha
 
-舍梵偈RhythmBuddha是一款将敲击木鱼与音游结合的AR游戏。灵感来自于日本音乐僧侣药师寺宽邦在livehouse举办的个人演唱会。
+舍梵偈RhythmBuddha是一款将敲击木鱼与音游机制结合的AR游戏。灵感来自于日本音乐僧侣药师寺宽邦在livehouse举办的个人演唱会。
 
 在药师寺宽邦人声鼎沸的演唱会上，有剃度出家的师父，有双手合十跟着念经的师兄，有手中拨动电子念珠的女孩。由此引发我对于真实与虚幻、现实与信仰的思考——事物无常而虚幻，现实世界中常有迷茫，有执着而无法实现的理想。困于现实，崇尚信仰。于是我有了开发一款AR游戏的念头，将当下流行的敲打木鱼、跪拜佛祖行为与节奏游戏结合，目标是让用户在游玩过程中获得精神洗礼、心灵解脱。
 
@@ -72,6 +72,24 @@ Music Rhythm Analysis: Using the Unity plugin Koreographer's audio processing te
  <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/qianqi.jpg">
 </picture>
 
+
+# 项目功能
+
+## 音乐和节奏互动
+音乐感知：通过使用Koreographer，游戏可以分析歌曲的节奏、拍子和节奏变化，并以此设计游戏中的节奏事件，佛珠的产生可以恰好落到节拍上。
+
+节奏挑战：玩家可以根据音乐的节奏进行敲击木鱼，若触碰飞来的佛珠，则触发木鱼缩放动画，实现对音乐节奏的互动。
+
+## 图像识别与物体碰撞
+图像识别：利用AR Tracked Object Manager指定生成物体Cube。
+
+物体碰撞：Cube作为碰撞器触碰飞来的佛珠，以实现敲击即消除佛珠。玩家可以使用触控设备（木鱼槌）进行敲击操作，与游戏中的虚拟木鱼及佛珠互动。
+
+## Holokit头显支持
+使用Holokit SDK用于实现AR场景交互效果，佩戴Holokit头显即可将虚拟元素叠加在现实世界中，实现木鱼槌与虚拟木鱼互动。
+
+
+# 项目功能目标（未实现）
 
 
 
