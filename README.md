@@ -95,6 +95,12 @@ Music Perception: By using Koreographer, the game can analyze the rhythm, beats,
 
 Rhythm Challenge: Players can tap the wooden fish in time with the music's rhythm. If they hit incoming prayer beads, a scaling animation is triggered, creating an interactive response to the musical rhythm.
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/yinyue.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/yinyue.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/yinyue.jpg">
+</picture>
+
 ## 图像识别与物体碰撞
 图像识别：利用AR Tracked Object Manager指定生成物体Cube。
 
