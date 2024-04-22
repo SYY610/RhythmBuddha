@@ -73,7 +73,7 @@ Music Rhythm Analysis: Using the Unity plugin Koreographer's audio processing te
 </picture>
 
 
-# 项目功能
+# 项目功能(Released)
 
 ## 精致的佛祖模型与动画
 佛祖跟随音乐节奏弹奏琵琶
@@ -121,7 +121,7 @@ The Holokit SDK is used to create AR scene interaction effects. By wearing a Hol
  <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/Holokit.jpg">
 </picture>
 
-# 项目功能目标（未实现）
+# 项目功能进行中（In Progress）
 
 ## UI界面设计
 血条机制：若错过佛珠没有触碰消除，页面左上角血条减少，血条空即游戏结束。
@@ -134,6 +134,8 @@ Pause Function: The pause and start UI is designed in the upper right corner of 
 
 Song Selection Level Page: Provide five to six songs, and users can slide the wooden fish mallet across the screen to scroll the UI and choose a song.
 
+# 项目预备功能（Planned）
+
 ## 游戏关卡和挑战
 关卡设计：设置不同的选歌关卡，随着关卡的提升，增加游戏的难度和挑战性。
 
@@ -142,6 +144,8 @@ Song Selection Level Page: Provide five to six songs, and users can slide the wo
 Level Design: The game can offer various song selection levels, increasing the difficulty and challenge as players progress through the levels.
 
 Diverse Challenges: By using a variety of rhythms, and music with different speeds and levels of difficulty, the game provides a wide range of challenges.
+
+# 项目考虑功能（Under Consideration）
 
 ## 社交和竞赛功能
 排行榜：游戏设立排行榜，玩家可以与其他玩家比较得分，增加游戏的竞争性。
