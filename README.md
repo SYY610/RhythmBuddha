@@ -125,7 +125,9 @@ The Holokit SDK is used to create AR scene interaction effects. By wearing a Hol
 
 ## UI界面设计
 血条机制：若错过佛珠没有触碰消除，页面左上角血条减少，血条空即游戏结束。
+
 暂停功能：游戏中页面右上角设计暂停及开始UI，方便用户随时停止/开始游戏。
+
 选歌关卡页面：准备五至六首歌曲，木鱼槌滑动屏幕，UI随之滑动选择歌曲。
 
 Health Bar Mechanism: If a prayer bead is missed and not eliminated, the health bar in the top left corner of the screen decreases. When the health bar is empty, the game is over.
