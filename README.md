@@ -77,6 +77,9 @@ Music Rhythm Analysis: Using the Unity plugin Koreographer's audio processing te
 
 ## 精致的佛祖模型与动画
 佛祖跟随音乐节奏弹奏琵琶
+
+The Buddha plays the pipa in time with the rhythm of the music.
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
