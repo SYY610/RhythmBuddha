@@ -81,9 +81,9 @@ Music Rhythm Analysis: Using the Unity plugin Koreographer's audio processing te
 The Buddha plays the pipa in time with the rhythm of the music.
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/zichan.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/zichan.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/zichan.jpg">
 </picture>
 
 ## 音乐和节奏互动
