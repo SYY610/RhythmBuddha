@@ -80,14 +80,23 @@ Music Rhythm Analysis: Using the Unity plugin Koreographer's audio processing te
 
 节奏挑战：玩家可以根据音乐的节奏进行敲击木鱼，若触碰飞来的佛珠，则触发木鱼缩放动画，实现对音乐节奏的互动。
 
+Music Perception: By using Koreographer, the game can analyze the rhythm, beats, and tempo changes of a song to design rhythm events within the game, ensuring that the appearance of prayer beads aligns perfectly with the music's beats.
+
+Rhythm Challenge: Players can tap the wooden fish in time with the music's rhythm. If they hit incoming prayer beads, a scaling animation is triggered, creating an interactive response to the musical rhythm.
+
 ## 图像识别与物体碰撞
 图像识别：利用AR Tracked Object Manager指定生成物体Cube。
 
 物体碰撞：Cube作为碰撞器触碰飞来的佛珠，以实现敲击即消除佛珠。玩家可以使用触控设备（木鱼槌）进行敲击操作，与游戏中的虚拟木鱼及佛珠互动。
 
+Image Recognition: Use the AR Tracked Object Manager to specify a generated object Cube.
+
+Object Collision: The Cube acts as a collider to interact with the incoming prayer beads, enabling their removal upon impact. Players can use a touch device (like a wooden fish mallet) to tap, interacting with the virtual wooden fish and prayer beads within the game.
+
 ## Holokit头显支持
 使用Holokit SDK用于实现AR场景交互效果，佩戴Holokit头显即可将虚拟元素叠加在现实世界中，实现木鱼槌与虚拟木鱼互动。
 
+The Holokit SDK is used to create AR scene interaction effects. By wearing a Holokit headset, virtual elements can be superimposed onto the real world, allowing interaction between the wooden fish mallet and the virtual wooden fish.
 
 # 项目功能目标（未实现）
 
@@ -96,17 +105,27 @@ Music Rhythm Analysis: Using the Unity plugin Koreographer's audio processing te
 
 多样化挑战：通过多种节奏、不同速度和难度的音乐，提供多样化的游戏挑战。
 
+Level Design: The game can offer various song selection levels, increasing the difficulty and challenge as players progress through the levels.
+
+Diverse Challenges: By using a variety of rhythms, and music with different speeds and levels of difficulty, the game provides a wide range of challenges.
+
 ## 社交和竞赛功能
 排行榜：游戏设立排行榜，玩家可以与其他玩家比较得分，增加游戏的竞争性。
 
 社交互动：提供社交分享功能，玩家可以与朋友分享成绩或邀请加入游戏。
+
+Leaderboard: The game features a leaderboard where players can compare scores with others, adding a competitive element to the game.
+
+Social Interaction: A social sharing function allows players to share their scores with friends or invite them to join the game.
 
 ## 个性化和奖励
 解锁内容：通过游戏内成就和任务，玩家可以解锁新的歌曲、关卡和奖励。
 
 个性化定制：允许玩家自定义游戏佛祖角色、木鱼形象。
 
+Unlockable Content: Players can unlock new songs, levels, and rewards by completing in-game achievements and tasks.
 
+Personalization: Players are allowed to customize the in-game Buddha character and the wooden fish design.
 
 
 
