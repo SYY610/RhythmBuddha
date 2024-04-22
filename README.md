@@ -5,7 +5,7 @@ RhythmBuddha是一款节奏游戏，将当下流行的敲打木鱼、跪拜佛�
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/c5555c84eda99f15_upscayl_4x_realesrgan-x4plus.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/c5555c84eda99f15_upscayl_4x_realesrgan-x4plus.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/c5555c84eda99f15_upscayl_4x_realesrgan-x4plus.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/zhushijue.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/zhushijue.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/zhushijue.jpg">
 </picture>
