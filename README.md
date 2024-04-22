@@ -75,7 +75,7 @@ Music Rhythm Analysis: Using the Unity plugin Koreographer's audio processing te
 
 # 项目功能(Released)
 
-## 精致的佛祖模型与动画
+## 佛祖模型与动画
 佛祖跟随音乐节奏弹奏琵琶
 
 The Buddha plays the pipa in time with the rhythm of the music.
@@ -111,9 +111,9 @@ Image Recognition: Use the AR Tracked Object Manager to specify a generated obje
 Object Collision: The Cube acts as a collider to interact with the incoming prayer beads, enabling their removal upon impact. Players can use a touch device (like a wooden fish mallet) to tap, interacting with the virtual wooden fish and prayer beads within the game.
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/yinyue.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/yinyue.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/yinyue.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/gif.gif">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/gif.gif">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/gif.gif">
 </picture>
 
 ## Holokit头显支持
