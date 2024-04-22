@@ -115,6 +115,12 @@ Object Collision: The Cube acts as a collider to interact with the incoming pray
 
 The Holokit SDK is used to create AR scene interaction effects. By wearing a Holokit headset, virtual elements can be superimposed onto the real world, allowing interaction between the wooden fish mallet and the virtual wooden fish.
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/Holokit.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/Holokit.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/Holokit.jpg">
+</picture>
+
 # 项目功能目标（未实现）
 
 ## UI界面设计
