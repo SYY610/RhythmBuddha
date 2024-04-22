@@ -23,9 +23,21 @@ The inspiration for RhythmBuddha came from the Japanese musical monk Yakuji Kōh
 
 # 前期方案
 ## 基本机制
-节奏游戏：玩家根据音乐的节奏，敲打木鱼。玩家在AR设备上看到虚拟的木鱼，然后根据音乐的提示，点击或敲打相应的节拍点。
+节奏游戏：将敲击木鱼、跪拜佛祖与节奏游戏机制结合，玩家根据音乐的节拍，敲打木鱼。玩家在AR设备上看到虚拟的木鱼，然后根据音乐的提示，点击或敲打相应的节拍点。
 
 AR交互：通过设备的摄像头，玩家可以在真实世界中看到虚拟的木鱼。设备上的提示会指导玩家何时敲打，可能通过颜色、闪烁或箭头等视觉提示。
+
+游戏关卡设计：设定多个关卡，随着游戏进行逐渐增加难度，挑战玩家的反应速度和节奏感。
+
+奖励机制：设计奖励系统，鼓励玩家完成挑战并提升技能。例如解锁新歌曲、佛祖形象的变化或者其他游戏内的虚拟奖励。
+
+Rhythm Game: This game combines the mechanics of tapping wooden fish and bowing to Buddha with rhythm game elements. Players tap the wooden fish according to the rhythm of the music. Using AR devices, players see virtual wooden fish and tap or strike the corresponding beat points as indicated by the music.
+
+AR Interaction: Through the device's camera, players can see virtual wooden fish in the real world. On-screen cues guide players on when to tap, using visual indicators like color changes, flashes, or arrows.
+
+Game Level Design: The game features multiple levels with gradually increasing difficulty, challenging players' reflexes and sense of rhythm as they progress.
+
+Reward System: The game has a reward system that encourages players to complete challenges and improve their skills. Rewards could include unlocking new songs, changes in the Buddha's appearance, or other in-game virtual prizes.
 
 ## 美术形象设计
 佛祖形象：佛祖的形象以经典的佛教艺术风格为主，加以赛博科幻风。
@@ -33,3 +45,33 @@ AR交互：通过设备的摄像头，玩家可以在真实世界中看到虚拟
 木鱼设计：木鱼形象以佛教经典花纹为主，材质依据佛祖的材质效果决定。
 
 动画效果：为佛祖设计动态效果，手持乐器，跟随音乐节奏一齐演奏。
+
+Buddha Character Design: The Buddha's appearance primarily follows classic Buddhist art styles, with a touch of cyber-science fiction.
+
+Wooden Fish Design: The wooden fish's design is inspired by traditional Buddhist patterns, and its material is determined by the Buddha's material effects.
+
+Animation Effects: The Buddha has dynamic animations, playing an instrument in sync with the rhythm of the music.
+
+## 选歌页面设计
+界面布局：选歌页面包括歌曲列表、难度选择、游戏模式等功能。
+
+界面视觉：以佛祖演奏乐器为背景，界面加以佛教经典花纹元素。
+
+Interface Layout: The song selection screen includes features such as a song list, difficulty selection, and game modes.
+
+Interface Visuals: The background features Buddha playing musical instruments, with the interface incorporating elements of traditional Buddhist patterns.
+
+## 技术实现
+音乐节奏分析：利用Unity插件Koreographer音频处理技术，分析音乐的节奏和节拍信息，使得佛珠准确落到音乐节拍上，用户敲击更有节律。
+
+Music Rhythm Analysis: Using the Unity plugin Koreographer's audio processing technology, the game's music is analyzed for rhythm and beat information, ensuring that the prayer beads accurately align with the music's beats, allowing users to tap in a more rhythmic manner.
+
+
+
+
+
+
+
+
+
+
