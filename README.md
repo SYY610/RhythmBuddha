@@ -81,9 +81,9 @@ Music Rhythm Analysis: Using the Unity plugin Koreographer's audio processing te
 The Buddha plays the pipa in time with the rhythm of the music.
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/zichan.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/zichan.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/zichan.jpg">
 </picture>
 
 ## 音乐和节奏互动
@@ -110,6 +110,17 @@ Object Collision: The Cube acts as a collider to interact with the incoming pray
 The Holokit SDK is used to create AR scene interaction effects. By wearing a Holokit headset, virtual elements can be superimposed onto the real world, allowing interaction between the wooden fish mallet and the virtual wooden fish.
 
 # 项目功能目标（未实现）
+
+## UI界面设计
+血条机制：若错过佛珠没有触碰消除，页面左上角血条减少，血条空即游戏结束。
+暂停功能：游戏中页面右上角设计暂停及开始UI，方便用户随时停止/开始游戏。
+选歌关卡页面：准备五至六首歌曲，木鱼槌滑动屏幕，UI随之滑动选择歌曲。
+
+Health Bar Mechanism: If a prayer bead is missed and not eliminated, the health bar in the top left corner of the screen decreases. When the health bar is empty, the game is over.
+
+Pause Function: The pause and start UI is designed in the upper right corner of the game screen, allowing users to stop and start the game at any time.
+
+Song Selection Level Page: Provide five to six songs, and users can slide the wooden fish mallet across the screen to scroll the UI and choose a song.
 
 ## 游戏关卡和挑战
 关卡设计：设置不同的选歌关卡，随着关卡的提升，增加游戏的难度和挑战性。
