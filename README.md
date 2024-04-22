@@ -75,6 +75,17 @@ Music Rhythm Analysis: Using the Unity plugin Koreographer's audio processing te
 
 # 项目功能
 
+## 精致的佛祖模型与动画
+佛祖跟随音乐节奏弹奏琵琶
+
+The Buddha plays the pipa in time with the rhythm of the music.
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
+</picture>
+
 ## 音乐和节奏互动
 音乐感知：通过使用Koreographer，游戏可以分析歌曲的节奏、拍子和节奏变化，并以此设计游戏中的节奏事件，佛珠的产生可以恰好落到节拍上。
 
@@ -101,7 +112,7 @@ The Holokit SDK is used to create AR scene interaction effects. By wearing a Hol
 # 项目功能目标（未实现）
 
 ## 游戏关卡和挑战
-关卡设计：游戏可以设置不同的选歌关卡，随着关卡的提升，增加游戏的难度和挑战性。
+关卡设计：设置不同的选歌关卡，随着关卡的提升，增加游戏的难度和挑战性。
 
 多样化挑战：通过多种节奏、不同速度和难度的音乐，提供多样化的游戏挑战。
 
