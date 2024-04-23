@@ -194,7 +194,7 @@ Personalization: Players are allowed to customize the in-game Buddha character a
 ## 节拍和节奏互动（碰撞）
 设置佛珠的产生与消失点【TargetTop&TargetBottom】
 
-并且设置佛珠出现频率、移动速度，使佛珠的产生可以恰好落到选取的此首音乐节拍上。
+并且设置佛珠随机于一个TargetTop生成、出现频率、移动速度，使佛珠的产生可以恰好落到选取的此首音乐节拍上。
 
 设置佛珠运动方向并沿着轨道运动。
 
@@ -212,7 +212,11 @@ Personalization: Players are allowed to customize the in-game Buddha character a
  <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/cube.png">
 </picture>
 
-
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/cube.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/cube.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/cube.png">
+</picture>
 
 
 
