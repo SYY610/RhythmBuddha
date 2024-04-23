@@ -184,12 +184,22 @@ Personalization: Players are allowed to customize the in-game Buddha character a
 
 给佛祖添加动画器Animator设置循环动作
 
+Import 3D models, textures, materials, and other resources into Unity, and set the corresponding materials and textures.
+
+Add an Animator to the Buddha and configure it for looping actions.
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
 </picture>
 
+## 背景音效设置
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
+</picture>
 
 ## 节拍和节奏互动（碰撞）
 设置佛珠的产生与消失点【TargetTop&TargetBottom】
@@ -198,6 +208,12 @@ Personalization: Players are allowed to customize the in-game Buddha character a
 
 设置佛珠运动方向并沿着轨道运动。
 
+Set the generation and disappearance points for prayer beads【TargetTop & TargetBottom】.
+
+Also, set the prayer beads to be generated randomly at one of the TargetTop points, with a specified frequency of appearance and speed, ensuring that the generated prayer beads align precisely with the selected music's beats.
+
+Define the direction of the prayer beads' movement along the designated track.
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/ball.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/ball.png">
@@ -205,6 +221,8 @@ Personalization: Players are allowed to customize the in-game Buddha character a
 </picture>
 
 碰撞检测：Cube的BoxCollider用于检测碰撞，设置碰撞场域大小、碰撞时触发的木鱼缩放动画、敲击木鱼音效、摧毁佛珠。
+
+Collision Detection: The Cube's BoxCollider is used for detecting collisions. Set the size of the collision area, the scaling animation of the wooden fish triggered by the collision, the sound effect for hitting the wooden fish, and the destruction of the prayer beads upon collision.
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/cube.png">
@@ -221,14 +239,16 @@ Personalization: Players are allowed to customize the in-game Buddha character a
 ## 图像识别
 利用AR Tracked Object Manager指定生成物体Cube，使得Cube跟随图像运动，实现木鱼槌达到Cube碰撞效果。
 
+Use the AR Tracked Object Manager to assign the generated object Cube, allowing the Cube to follow the movement of the image, enabling the wooden fish mallet to collide with the Cube.
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/ImageManager.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/ImageManager.png">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/ImageManager.png">
 </picture>
 
-
-
+# 感谢
+感谢余同舟老师、卢泳如老师、Amber老师对项目的指导与帮助，
 
 
 
