@@ -1,4 +1,4 @@
-![image](https://github.com/SYY610/RhythmBuddha-/assets/163079332/c8c04d32-9e4d-4e19-b78e-f3b306e92dcd)# 舍梵偈RhythmBuddha
+# 舍梵偈RhythmBuddha
 
 舍梵偈RhythmBuddha是一款将敲击木鱼与音游机制结合的AR游戏。灵感来自于日本音乐僧侣药师寺宽邦在livehouse举办的个人演唱会。
 
