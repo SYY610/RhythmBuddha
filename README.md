@@ -14,9 +14,9 @@ At Yakuji Kōhō's lively concert, there were monks who had taken their vows, br
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/zhushijue.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/zhushijue.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/zhushijue.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/zhushijuezuizhong.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/zhushijuezuizhong.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/zhushijuezuizhong.jpg">
 </picture>
 
 
