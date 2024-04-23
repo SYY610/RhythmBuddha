@@ -89,7 +89,7 @@ The Buddha plays the pipa in time with the rhythm of the music.
 ## 节拍和节奏互动
 佛珠节拍：佛珠依据音乐节律为五个轨道中随机生成，设置佛珠出现频率为0.5,移动速度为3，佛珠的产生可以恰好落到选取的此首音乐节拍上。（世尊偈cho ver）
 
-节奏挑战：玩家可以根据音乐的节奏进行敲击木鱼，若触碰飞来的佛珠，则触发木鱼缩放动画，实现对音乐节奏的互动。
+节奏挑战：玩家可以根据音乐的节奏进行敲击木鱼，若触碰飞来的佛珠，则触发木鱼缩放动画，触发敲击木鱼音效，实现对音乐节奏的互动。
 
 Prayer Bead Beat: Prayer beads are randomly generated across five tracks according to the music rhythm. The frequency of appearance is set to 0.5, and the movement speed is 3, ensuring that the generated prayer beads align precisely with the selected music's beats.
 
@@ -196,9 +196,9 @@ Add an Animator to the Buddha and configure it for looping actions.
 
 ## 背景音效设置
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/music.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/music.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/music.png">
 </picture>
 
 ## 节拍和节奏互动（碰撞）
