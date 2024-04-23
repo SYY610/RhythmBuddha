@@ -1,4 +1,4 @@
-# 舍梵偈RhythmBuddha
+![image](https://github.com/SYY610/RhythmBuddha-/assets/163079332/c8c04d32-9e4d-4e19-b78e-f3b306e92dcd)# 舍梵偈RhythmBuddha
 
 舍梵偈RhythmBuddha是一款将敲击木鱼与音游机制结合的AR游戏。灵感来自于日本音乐僧侣药师寺宽邦在livehouse举办的个人演唱会。
 
@@ -75,7 +75,7 @@ Music Rhythm Analysis: Using the Unity plugin Koreographer's audio processing te
 
 # 项目功能(Released)
 
-## 精致的佛祖模型与动画
+## 佛祖模型与动画
 佛祖跟随音乐节奏弹奏琵琶
 
 The Buddha plays the pipa in time with the rhythm of the music.
@@ -86,12 +86,12 @@ The Buddha plays the pipa in time with the rhythm of the music.
  <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/zichan.jpg">
 </picture>
 
-## 音乐和节奏互动
-音乐感知：通过使用Koreographer，游戏可以分析歌曲的节奏、拍子和节奏变化，并以此设计游戏中的节奏事件，佛珠的产生可以恰好落到节拍上。
+## 节拍和节奏互动
+佛珠节拍：佛珠依据音乐节律为五个轨道中随机生成，设置佛珠出现频率为0.5,移动速度为3，佛珠的产生可以恰好落到选取的此首音乐节拍上。（世尊偈cho ver）
 
 节奏挑战：玩家可以根据音乐的节奏进行敲击木鱼，若触碰飞来的佛珠，则触发木鱼缩放动画，实现对音乐节奏的互动。
 
-Music Perception: By using Koreographer, the game can analyze the rhythm, beats, and tempo changes of a song to design rhythm events within the game, ensuring that the appearance of prayer beads aligns perfectly with the music's beats.
+Prayer Bead Beat: Prayer beads are randomly generated across five tracks according to the music rhythm. The frequency of appearance is set to 0.5, and the movement speed is 3, ensuring that the generated prayer beads align precisely with the selected music's beats.
 
 Rhythm Challenge: Players can tap the wooden fish in time with the music's rhythm. If they hit incoming prayer beads, a scaling animation is triggered, creating an interactive response to the musical rhythm.
 
@@ -110,10 +110,16 @@ Image Recognition: Use the AR Tracked Object Manager to specify a generated obje
 
 Object Collision: The Cube acts as a collider to interact with the incoming prayer beads, enabling their removal upon impact. Players can use a touch device (like a wooden fish mallet) to tap, interacting with the virtual wooden fish and prayer beads within the game.
 
-## Holokit头显支持
-使用Holokit SDK用于实现AR场景交互效果，佩戴Holokit头显即可将虚拟元素叠加在现实世界中，实现木鱼槌与虚拟木鱼互动。
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/gif.gif">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/gif.gif">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/gif.gif">
+</picture>
 
-The Holokit SDK is used to create AR scene interaction effects. By wearing a Holokit headset, virtual elements can be superimposed onto the real world, allowing interaction between the wooden fish mallet and the virtual wooden fish.
+## Holokit双目渲染
+使用Holokit双目渲染用于实现AR场景交互效果，佩戴Holokit头显即可将虚拟元素叠加在现实世界中，实现木鱼槌与虚拟木鱼互动。
+
+Use Holokit binocular rendering to achieve AR scene interaction effects. By wearing a Holokit headset, virtual elements can be superimposed onto the real world, allowing interaction between the wooden fish mallet and the virtual wooden fish.
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/Holokit.jpg">
@@ -122,6 +128,11 @@ The Holokit SDK is used to create AR scene interaction effects. By wearing a Hol
 </picture>
 
 # 项目功能进行中（In Progress）
+
+## 音乐和节奏互动
+音乐感知：通过使用Koreographer，游戏可以分析歌曲的节奏、拍子和节奏变化，并以此设计游戏中的节奏事件，佛珠的产生可以恰好落到节拍上。（正在研究Koreographer这个插件但是时间不够了啊啊啊
+
+Music Perception: By using Koreographer, the game can analyze the rhythm, beats, and tempo changes of a song to design rhythm events within the game, ensuring that the appearance of prayer beads aligns perfectly with the music's beats.
 
 ## UI界面设计
 血条机制：若错过佛珠没有触碰消除，页面左上角血条减少，血条空即游戏结束。
@@ -166,6 +177,34 @@ Social Interaction: A social sharing function allows players to share their scor
 Unlockable Content: Players can unlock new songs, levels, and rewards by completing in-game achievements and tasks.
 
 Personalization: Players are allowed to customize the in-game Buddha character and the wooden fish design.
+
+# How does it work
+## 佛祖模型与动画
+给佛祖添加动画器Animator设置循环动作
+
+## 节拍和节奏互动
+设置佛珠的产生与消失点【TargetTop（1）（2）（3）（4）（5）&TargetBottom（1）（2）（3）（4）（5）】
+
+并且设置佛珠出现频率为0.5,移动速度为3，佛珠的产生可以恰好落到选取的此首音乐节拍上。
+
+设置运动方向并沿着轨道运动。
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/Holokit.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/Holokit.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/Holokit.jpg">
+</picture>
+
+节奏挑战：玩家可以根据音乐的节奏进行敲击木鱼，若触碰飞来的佛珠，则触发木鱼缩放动画，实现对音乐节奏的互动。
+
+
+
+
+
+
+
+
+
 
 
 
