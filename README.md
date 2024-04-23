@@ -63,8 +63,11 @@ Interface Visuals: The background features Buddha playing musical instruments, w
 ## 技术实现
 音乐节奏分析：利用Unity插件Koreographer音频处理技术，分析音乐的节奏和节拍信息，使得佛珠准确落到音乐节拍上，用户敲击更有节律。
 
+Holokit双目渲染：连接AR头显实现游戏手段。
+
 Music Rhythm Analysis: Using the Unity plugin Koreographer's audio processing technology, the game's music is analyzed for rhythm and beat information, ensuring that the prayer beads accurately align with the music's beats, allowing users to tap in a more rhythmic manner.
 
+Holokit Binocular Rendering: Connect to an AR headset to enable gameplay.
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/qianqi.jpg">
@@ -189,9 +192,9 @@ Import 3D models, textures, materials, and other resources into Unity, and set t
 Add an Animator to the Buddha and configure it for looping actions.
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/fozu.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/fozu.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://https://github.com/SYY610/RhythmBuddha-/blob/main/picture/fozu.jpg">
 </picture>
 
 ## 背景音效设置
@@ -248,7 +251,11 @@ Use the AR Tracked Object Manager to assign the generated object Cube, allowing 
 </picture>
 
 # 感谢
-感谢余同舟老师、卢泳如老师、Amber老师对项目的指导与帮助，
+感谢余同舟老师、卢泳如老师、Amber老师对项目的指导与帮助。
+
+感谢拓展现实（开发）班的同学们，班级氛围真的很好。
+
+感谢自己对木鱼音游的坚持，成功开发。
 
 
 
