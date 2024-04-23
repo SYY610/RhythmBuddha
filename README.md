@@ -114,9 +114,9 @@ Image Recognition: Use the AR Tracked Object Manager to specify a generated obje
 Object Collision: The Cube acts as a collider to interact with the incoming prayer beads, enabling their removal upon impact. Players can use a touch device (like a wooden fish mallet) to tap, interacting with the virtual wooden fish and prayer beads within the game.
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/gif.gif">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/gif.gif">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/gif.gif">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha/blob/main/picture/gif.gif">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha/blob/main/picture/gif.gif">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha/blob/main/picture/gif.gif">
 </picture>
 
 ## Holokit双目渲染
