@@ -180,14 +180,23 @@ Personalization: Players are allowed to customize the in-game Buddha character a
 
 # How does it work
 ## 佛祖模型与动画
+将3D模型、纹理、材质等资源导入Unity，并设置相应的材质和贴图。
+
 给佛祖添加动画器Animator设置循环动作
 
-## 节拍和节奏互动
-设置佛珠的产生与消失点【TargetTop（1）（2）（3）（4）（5）&TargetBottom（1）（2）（3）（4）（5）】
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
+</picture>
 
-并且设置佛珠出现频率为0.5,移动速度为3，佛珠的产生可以恰好落到选取的此首音乐节拍上。
 
-设置运动方向并沿着轨道运动。
+## 节拍和节奏互动（碰撞）
+设置佛珠的产生与消失点【TargetTop&TargetBottom】
+
+并且设置佛珠随机于一个TargetTop生成、出现频率、移动速度，使佛珠的产生可以恰好落到选取的此首音乐节拍上。
+
+设置佛珠运动方向并沿着轨道运动。
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/ball.png">
@@ -195,11 +204,19 @@ Personalization: Players are allowed to customize the in-game Buddha character a
  <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/ball.png">
 </picture>
 
-节奏挑战：玩家可以根据音乐的节奏进行敲击木鱼，若触碰飞来的佛珠，则触发木鱼缩放动画，实现对音乐节奏的互动。
+碰撞检测：Cube的BoxCollider用于检测碰撞，设置碰撞场域大小、碰撞时触发的木鱼缩放动画、敲击木鱼音效、摧毁佛珠。
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/cube.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/cube.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/cube.png">
+</picture>
 
-
-
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/cube.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/cube.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/cube.png">
+</picture>
 
 
 
