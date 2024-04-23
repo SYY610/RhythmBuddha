@@ -184,6 +184,13 @@ Personalization: Players are allowed to customize the in-game Buddha character a
 
 给佛祖添加动画器Animator设置循环动作
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/ball.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/ball.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/ball.png">
+</picture>
+
+
 ## 节拍和节奏互动（碰撞）
 设置佛珠的产生与消失点【TargetTop&TargetBottom】
 
