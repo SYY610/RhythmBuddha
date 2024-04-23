@@ -189,9 +189,9 @@ Import 3D models, textures, materials, and other resources into Unity, and set t
 Add an Animator to the Buddha and configure it for looping actions.
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/meishuzichan.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/fozu.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/fozu.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://https://github.com/SYY610/RhythmBuddha-/blob/main/picture/fozu.jpg">
 </picture>
 
 ## 背景音效设置
