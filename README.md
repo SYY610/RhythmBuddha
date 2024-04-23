@@ -251,7 +251,7 @@ Use the AR Tracked Object Manager to assign the generated object Cube, allowing 
 </picture>
 
 # 感谢
-感谢余同舟老师、卢泳如老师、Amber老师对项目的指导与帮助。
+感谢俞同舟老师、卢泳如老师、Amber老师对项目的指导与帮助。
 
 感谢拓展现实（开发）班的同学们，班级氛围真的很棒！
 
