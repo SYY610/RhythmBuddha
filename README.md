@@ -2,15 +2,15 @@
 
 舍梵偈RhythmBuddha是一款将敲击木鱼与音游机制结合的AR游戏。灵感来自于日本音乐僧侣药师寺宽邦在livehouse举办的个人演唱会。
 
-在药师寺宽邦人声鼎沸的演唱会上，有剃度出家的师父，有双手合十跟着念经的师兄，有手中拨动电子念珠的女孩。由此引发我对于真实与虚幻、现实与信仰的思考——事物无常而虚幻，现实世界中常有迷茫，有执着而无法实现的理想。困于现实，崇尚信仰。于是我有了开发一款AR游戏的念头，将当下流行的敲打木鱼、跪拜佛祖行为与节奏游戏结合，目的是让用户在游玩过程中获得精神洗礼、心灵解脱。
+他的音乐将传统宗教与现代音乐形式结合，展现了信仰与当代文化之间的独特交汇。在药师寺宽邦人声鼎沸的演唱会上，有剃度出家的师父，有双手合十跟着念经的师兄，有手中拨动电子念珠的女孩。由此引发我对于真实与虚幻、现实与信仰的思考——事物无常而虚幻，现实世界中常有迷茫，有执着而无法实现的理想。困于现实，崇尚信仰。于是我有了开发一款AR游戏的念头，在充满压力和焦虑的现代社会，将当下流行的敲打木鱼、跪拜佛祖行为与节奏游戏结合，目的是让用户在游玩过程中获得精神洗礼、心灵解脱。
 
 舍，空也；梵，净也；偈，颂也。“一切有为法，应作如是观。”不妨借助AR增强现实，建造跨越时空与信仰的桥梁，构架一方虚实交错之地。沦入其中，享受游戏，享受当下。
 
-RhythmBuddha is an AR game that combines tapping wooden fish with rhythm gameplay.The inspiration for RhythmBuddha came from the Japanese musical monk Yakuji Kōhō's personal concert held in a live house.
+RhythmBuddha is an AR game that combines the striking of wooden fish with rhythm-based gameplay mechanics. The inspiration comes from a personal concert by Japanese musical monk Yakuji Kōhō held in a live house.
 
-At Yakuji Kōhō's lively concert, there were monks who had taken their vows, brothers with hands clasped in prayer reciting sutras, and girls manipulating electronic prayer beads. This made me think about the concepts of reality and illusion, as well as reality and faith—things are transient and illusory, and the real world is often filled with confusion, with unachievable ideals. Trapped in reality, people seek faith. So I had the idea of developing an AR game that combines the current trends of hitting wooden fish and bowing to Buddha with rhythm games, aiming to give players a spiritual baptism and inner liberation during gameplay.
+His music combines traditional religious elements with modern music styles, showcasing a unique intersection between faith and contemporary culture. At Yakuji Kōhō's lively concert, there were monks who had taken their vows, brothers with hands clasped in prayer reciting sutras, and a girl manipulating electronic prayer beads. This made me think about the concepts of reality and illusion, and reality and faith—things are transient and illusory, and the real world is often filled with confusion, with idealistic aspirations that can't be achieved. Trapped in reality, people seek faith. So I had the idea of developing an AR game that combines the current trends of hitting wooden fish and bowing to Buddha with rhythm games, aiming to give players a spiritual baptism and inner liberation during gameplay in our modern society filled with stress and anxiety.
 
-"She" signifies emptiness; "Fan" denotes purity; "Ji" refers to a verse."All conditioned phenomena should be viewed in this way." It would be interesting to use augmented reality (AR) to build a bridge that spans time, space, and faith, creating a place where the virtual and real are intertwined. Dive into it, enjoy the game, and embrace the present moment.
+"She" signifies emptiness; "Fan" denotes purity; "Ji" refers to a verse or hymn. "All conditioned phenomena should be viewed in this way." Why not use augmented reality (AR) to build a bridge that spans time, space, and faith, creating a place where the virtual and real are intertwined? Dive into it, enjoy the game, and embrace the present moment.
 
 
 <picture>
