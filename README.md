@@ -63,8 +63,11 @@ Interface Visuals: The background features Buddha playing musical instruments, w
 ## 技术实现
 音乐节奏分析：利用Unity插件Koreographer音频处理技术，分析音乐的节奏和节拍信息，使得佛珠准确落到音乐节拍上，用户敲击更有节律。
 
+Holokit双目渲染：连接AR头显实现游戏手段。
+
 Music Rhythm Analysis: Using the Unity plugin Koreographer's audio processing technology, the game's music is analyzed for rhythm and beat information, ensuring that the prayer beads accurately align with the music's beats, allowing users to tap in a more rhythmic manner.
 
+Holokit Binocular Rendering: Connect to an AR headset to enable gameplay.
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/qianqi.jpg">
