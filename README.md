@@ -2,7 +2,7 @@
 
 舍梵偈RhythmBuddha是一款将敲击木鱼与音游机制结合的AR游戏。灵感来自于日本音乐僧侣药师寺宽邦在livehouse举办的个人演唱会。
 
-在药师寺宽邦人声鼎沸的演唱会上，有剃度出家的师父，有双手合十跟着念经的师兄，有手中拨动电子念珠的女孩。由此引发我对于真实与虚幻、现实与信仰的思考——事物无常而虚幻，现实世界中常有迷茫，有执着而无法实现的理想。困于现实，崇尚信仰。于是我有了开发一款AR游戏的念头，将当下流行的敲打木鱼、跪拜佛祖行为与节奏游戏结合，目标是让用户在游玩过程中获得精神洗礼、心灵解脱。
+在药师寺宽邦人声鼎沸的演唱会上，有剃度出家的师父，有双手合十跟着念经的师兄，有手中拨动电子念珠的女孩。由此引发我对于真实与虚幻、现实与信仰的思考——事物无常而虚幻，现实世界中常有迷茫，有执着而无法实现的理想。困于现实，崇尚信仰。于是我有了开发一款AR游戏的念头，将当下流行的敲打木鱼、跪拜佛祖行为与节奏游戏结合，目的是让用户在游玩过程中获得精神洗礼、心灵解脱。
 
 舍，空也；梵，净也；偈，颂也。“一切有为法，应作如是观。”不妨借助AR增强现实，建造跨越时空与信仰的桥梁，构架一方虚实交错之地。沦入其中，享受游戏，享受当下。
 
@@ -14,9 +14,9 @@ At Yakuji Kōhō's lively concert, there were monks who had taken their vows, br
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/zhushijue.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/zhushijue.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/zhushijue.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/zhushijuezuizhong.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/zhushijuezuizhong.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/SYY610/RhythmBuddha-/blob/main/picture/zhushijuezuizhong.jpg">
 </picture>
 
 
@@ -253,9 +253,9 @@ Use the AR Tracked Object Manager to assign the generated object Cube, allowing 
 # 感谢
 感谢余同舟老师、卢泳如老师、Amber老师对项目的指导与帮助。
 
-感谢拓展现实（开发）班的同学们，班级氛围真的很好。
+感谢拓展现实（开发）班的同学们，班级氛围真的很棒！
 
-感谢自己对木鱼音游的坚持，成功开发。
+感谢自己对木鱼音游的坚持，终于实现开发。
 
 
 
